@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:0EA5E9&height=250&section=header&text=Naina%20Varshney&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Naina Varshney</h1>
 
 <h3 align="center">
@@ -5,103 +9,69 @@ Full Stack Developer • Backend Engineer • AI & LLM Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered products, and modern backend systems.
+Building scalable backend systems, AI-powered applications and modern web experiences.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Engineer;AI+Engineer+in+Progress;LangChain+%7C+RAG+%7C+LLMs;Building+Real+World+Projects;Always+Learning+🚀"/>
-</p>
 
-<p align="center">
-<a href="https://github.com/naina766">
-<img src="https://komarev.com/ghpvc/?username=naina766&label=Profile+Views&color=0e75b6&style=flat"/>
+<a href="https://www.linkedin.com/in/naina-varshney-0133bb2a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/naina766?tab=followers">
+<a href="mailto:naina2311081@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/_NV-842/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/naina766">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=naina766&label=Profile%20Views&color=2563EB&style=flat"/>
+
 <img src="https://img.shields.io/github/followers/naina766?label=Followers&style=flat"/>
-</a>
 
-<a href="https://github.com/naina766">
-<img src="https://img.shields.io/github/stars/naina766?affiliations=OWNER&style=flat"/>
-</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Student
+🎓 B.Tech Computer Science & Engineering Student at **Ajay Kumar Garg Engineering College**
 
-💻 Passionate about Backend Development, Full Stack Engineering, Generative AI and scalable software systems.
+💻 Passionate about building scalable backend systems, full stack applications and AI-powered software.
 
-🤖 Exploring Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), LangChain, LangGraph and AI workflows.
+🤖 Currently exploring:
 
-🚀 I enjoy building real-world products that solve practical problems using software and AI.
-
-🌱 Currently learning
-
-- System Design
-- FastAPI
-- Docker & Kubernetes
-- LangGraph
+- Large Language Models (LLMs)
 - Agentic AI
-- Cloud Deployment
-
-💬 Ask me about
-
-- React
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
 - LangChain
-- Gemini API
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- Docker
+- Kubernetes
+- System Design
+
+🚀 I enjoy solving real-world problems through software engineering and continuously improving my technical skills.
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Current Focus
 
-### 🤖 DeadlinePilot AI
-
-AI-powered productivity platform with intelligent scheduling, reminders, analytics and LLM integration.
-
-**Tech Stack**
-
-React • Node.js • MongoDB • Firebase • Gemini API • LangChain
-
----
-
-### 📈 Trade Journal
-
-Trading analytics platform for portfolio management, journals and performance dashboards.
-
-**Tech Stack**
-
-Next.js • PostgreSQL • Prisma • Express.js
-
----
-
-### 🌐 CampusConnect
-
-Full Stack MERN social networking platform for students with authentication and community features.
-
----
-
-### 📱 Expense Tracker
-
-Cross-platform mobile application for expense tracking and budgeting.
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build production-ready AI applications
-- 📚 Master Backend Engineering
-- ⚙️ Learn Advanced System Design
-- 🤖 Build AI Agents using LangGraph
-- 🐳 Deploy scalable applications with Docker & Kubernetes
-- 💻 Solve DSA consistently
+- 🤖 Building AI-powered applications
+- ⚙️ Backend Engineering
+- 🏗️ System Design
+- 🐳 Docker & Kubernetes
+- ☁️ Cloud Deployment
+- 📚 Data Structures & Algorithms
 
 ---
 
@@ -147,6 +117,40 @@ Cross-platform mobile application for expense tracking and budgeting.
 
 ---
 
+# 🚀 Featured Projects
+
+## 🤖 DeadlinePilot AI
+
+AI-powered productivity platform featuring intelligent scheduling, smart reminders, AI task planning, analytics, and Gemini-powered assistant.
+
+**Tech Stack:** React • Node.js • MongoDB • Firebase • Gemini API • LangChain
+
+---
+
+## 📈 Trade Journal
+
+Trading analytics platform with portfolio management, trade tracking, and performance dashboards.
+
+**Tech Stack:** Next.js • PostgreSQL • Prisma • Express.js
+
+---
+
+## 🌐 CampusConnect
+
+MERN-based social networking platform for students with authentication, posts, and communities.
+
+**Tech Stack:** React • Node.js • Express • MongoDB
+
+---
+
+## 📱 Expense Tracker
+
+Cross-platform expense tracking application with budgeting and analytics.
+
+**Tech Stack:** React Native • Node.js • MongoDB
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -167,7 +171,7 @@ Cross-platform mobile application for expense tracking and budgeting.
 
 # 📈 Contribution Graph
 
-[![Naina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naina766&theme=tokyo-night)](https://github.com/naina766)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naina766&theme=tokyo-night)](https://github.com/naina766)
 
 ---
 
@@ -183,42 +187,38 @@ Cross-platform mobile application for expense tracking and budgeting.
 
 # 🤝 Open to Collaborate
 
-I'm always interested in collaborating on
+I'm always interested in collaborating on:
 
 - AI & LLM Applications
 - Backend Systems
-- Full Stack Projects
-- Open Source
+- Full Stack Development
+- Open Source Projects
 - Developer Tools
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/naina-varshney-0133bb2a2/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:naina2311081@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/_NV-842/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
 📧 **Email:** naina2311081@gmail.com
 
+💼 **LinkedIn:** https://www.linkedin.com/in/naina-varshney-0133bb2a2/
+
+💻 **GitHub:** https://github.com/naina766
+
+🧩 **LeetCode:** https://leetcode.com/u/_NV-842/
+
 ---
 
-# 💡 Quote
+# 💭 Philosophy
 
-> **"Great software is built one problem at a time. Keep learning, keep building, and never stop improving."**
+> *"Great software is built one problem at a time. Keep learning, keep building, and never stop improving."*
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+Thanks for visiting! 🚀
+
+</p>
