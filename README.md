@@ -5,11 +5,19 @@
 <h1 align="center">Hi 👋, I'm Naina Varshney</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Engineer • AI & LLM Enthusiast
+Backend Engineer • Full Stack Developer • Generative AI Developer
 </h3>
 
 <p align="center">
-Building scalable backend systems, AI-powered applications and modern web experiences.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=700&lines=Backend+Engineer;Full+Stack+Developer;Generative+AI+Developer;Building+AI+Agents;Building+Scalable+Backend+Systems" />
+</p>
+
+<p align="center">
+Building scalable backend systems, AI-powered applications, AI Agents and production-ready software.
+</p>
+
+<p align="center">
+🟢 Open to Software Engineer • Backend Engineer • Full Stack • AI Engineer Roles
 </p>
 
 <p align="center">
@@ -33,121 +41,140 @@ Building scalable backend systems, AI-powered applications and modern web experi
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=naina766&label=Profile%20Views&color=2563EB&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/naina766?label=Followers&style=flat"/>
-
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Student at **Ajay Kumar Garg Engineering College**
+🎓 **B.Tech Computer Science & Engineering** student at **Ajay Kumar Garg Engineering College (AKGEC)**.
 
-💻 Passionate about building scalable backend systems, full stack applications and AI-powered software.
+💻 Passionate about designing scalable backend systems, building full-stack web applications, and developing AI-powered software using modern LLM technologies.
 
-🤖 Currently exploring:
+🚀 I enjoy solving real-world engineering problems by combining Software Engineering with Generative AI to build practical, production-ready applications.
 
+### 🚀 Areas of Interest
+
+- Backend Engineering
+- Full Stack Development
+- Generative AI
+- AI Agents
 - Large Language Models (LLMs)
-- Agentic AI
-- LangChain
-- LangGraph
 - Retrieval-Augmented Generation (RAG)
-- FastAPI
-- Docker
-- Kubernetes
+- Distributed Systems
 - System Design
 
-🚀 I enjoy solving real-world problems through software engineering and continuously improving my technical skills.
+### 📚 Currently Learning
+
+- Advanced RAG Architectures
+- Model Context Protocol (MCP)
+- FastAPI
+- Kubernetes
+- AWS Cloud
+- Advanced System Design
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 Building AI-powered applications
+- 🤖 Production AI Agent Applications
 - ⚙️ Backend Engineering
 - 🏗️ System Design
 - 🐳 Docker & Kubernetes
-- ☁️ Cloud Deployment
-- 📚 Data Structures & Algorithms
+- ☁️ AWS Cloud
+- 📚 Advanced Data Structures & Algorithms
+- 🔍 Advanced RAG Systems
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Core Engineering Concepts
 
-### Languages
+- REST APIs
+- JWT Authentication
+- MVC Architecture
+- OOP & SOLID Principles
+- Authentication & Authorization
+- Prompt Engineering
+- Function Calling
+- Tool Calling
+- Semantic Search
+- Vector Embeddings
+- Git Workflow
+
+---
+
+# 💻 Tech Stack
+
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase"/>
 </p>
 
-### AI & GenAI
-
-- LangChain
-- LangGraph
-- Gemini API
-- Hugging Face
-- Retrieval-Augmented Generation (RAG)
-
-### Tools
+## AI & Generative AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman,vscode"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
+
 </p>
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman,vscode,vercel"/>
+</p>
+
+---
+
+# 🚀 What I Build
+
+- 🤖 AI Agents
+- 🌐 Full Stack Web Applications
+- ⚙️ Backend APIs
+- 📊 SaaS Dashboards
+- 🧠 LLM-powered Applications
+- 📱 Cross-platform Mobile Applications
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 DeadlinePilot AI
-
-AI-powered productivity platform featuring intelligent scheduling, smart reminders, AI task planning, analytics, and Gemini-powered assistant.
-
-**Tech Stack:** React • Node.js • MongoDB • Firebase • Gemini API • LangChain
-
----
-
-## 📈 Trade Journal
-
-Trading analytics platform with portfolio management, trade tracking, and performance dashboards.
-
-**Tech Stack:** Next.js • PostgreSQL • Prisma • Express.js
-
----
-
-## 🌐 CampusConnect
-
-MERN-based social networking platform for students with authentication, posts, and communities.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-## 📱 Expense Tracker
-
-Cross-platform expense tracking application with budgeting and analytics.
-
-**Tech Stack:** React Native • Node.js • MongoDB
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **DeadlinePilot AI** | AI-powered productivity platform with multi-agent workflow, intelligent scheduling, reminders and Gemini integration. | Next.js, Node.js, MongoDB, Firebase, Gemini API, LangChain, Docker |
+| 📈 **TradeLedger Pro** | SaaS trade journal with authentication, analytics dashboards, PostgreSQL, Prisma and Redis. | React, Node.js, PostgreSQL, Prisma, Redis |
+| 💰 **BudgetBox** | Offline-first budgeting application with analytics dashboard and local synchronization engine. | Next.js 15, MongoDB, Zustand |
+| 📱 **Expense Tracker** | Cross-platform expense tracking application with authentication and analytics. | React Native, Node.js, MongoDB |
 
 ---
 
@@ -171,7 +198,11 @@ Cross-platform expense tracking application with budgeting and analytics.
 
 # 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naina766&theme=tokyo-night)](https://github.com/naina766)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naina766&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -185,40 +216,85 @@ Cross-platform expense tracking application with budgeting and analytics.
 
 ---
 
+# 📚 2026 Learning Journey
+
+✅ MERN Stack
+
+✅ Next.js
+
+✅ TypeScript
+
+✅ LangChain
+
+✅ LangGraph
+
+✅ Retrieval-Augmented Generation (RAG)
+
+✅ AI Agents
+
+✅ Gemini API
+
+🔄 Advanced RAG
+
+🔄 MCP
+
+🔄 FastAPI
+
+🔄 Kubernetes
+
+🔄 AWS
+
+🔄 Advanced System Design
+
+---
+
+# 🏅 Coding Profiles
+
+💻 GitHub: https://github.com/naina766
+
+🧩 LeetCode: https://leetcode.com/u/_NV-842/
+
+---
+
 # 🤝 Open to Collaborate
 
 I'm always interested in collaborating on:
 
 - AI & LLM Applications
-- Backend Systems
+- Backend Engineering
 - Full Stack Development
 - Open Source Projects
 - Developer Tools
+- AI Agent Projects
 
 ---
 
 # 🌐 Connect With Me
 
-📧 **Email:** naina2311081@gmail.com
+💼 LinkedIn  
+https://www.linkedin.com/in/naina-varshney-0133bb2a2/
 
-💼 **LinkedIn:** https://www.linkedin.com/in/naina-varshney-0133bb2a2/
+📧 Email  
+naina2311081@gmail.com
 
-💻 **GitHub:** https://github.com/naina766
+💻 GitHub  
+https://github.com/naina766
 
-🧩 **LeetCode:** https://leetcode.com/u/_NV-842/
+🧩 LeetCode  
+https://leetcode.com/u/_NV-842/
 
 ---
 
-# 💭 Philosophy
+# 💭 Motto
 
-> *"Great software is built one problem at a time. Keep learning, keep building, and never stop improving."*
+> **"Build. Learn. Improve. Repeat."**
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider starring my repositories.
+⭐ If you enjoy my projects, consider giving them a ⭐.
 
-Thanks for visiting! 🚀
+Thanks for visiting my profile! 🚀
 
 </p>
